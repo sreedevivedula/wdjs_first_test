@@ -1,4 +1,8 @@
 wdjs_first_test
 ===============
 
-Sample test for showing the differences between synchronous language bindings and WebDriverJS which is an asynchronous language binding.
+Demonstrates the differences between synchronous language bindings and WebDriverJS which is an asynchronous language binding.
+
+$ npm install
+ 
+$ node_modules/mocha/bin/mocha spec/

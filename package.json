@@ -1,0 +1,17 @@
+{
+  "name": "wdjs_first_test",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "mocha": "~1.21.4",
+    "selenium-webdriver": "~2.42.1"
+  },
+  "description": "wdjs_first_test ===============",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sreedevivedula/wdjs_first_test.git"
+  },
+  "author": "Sreedevi Vedula",
+  "license": "ISC",
+  "homepage": "https://github.com/sreedevivedula/wdjs_first_test"
+}
